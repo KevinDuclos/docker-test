@@ -4,4 +4,6 @@ cd symfony-test/docker
 
 docker-compose up
 
-enjoy !
+go to localhost on your browser
+
+enjoy to edit your symfony app !
